@@ -1,0 +1,8 @@
+{
+    "proxy": "p.webshare.io",
+    "port": "80",
+    "user": "",
+    "passw": "",
+    "thread": 5,
+    "url": "Enter the token CA address here"
+}
